@@ -1,7 +1,7 @@
 # fabioara.github.io
 
 
-Contrução da minha page para [pages.github.com](https://pages.github.com).
+Construção da minha page para [pages.github.com](https://pages.github.com).
 
 * Crie seu próprio avatar de perfil em https://getavataaars.com/
 * Tema de portfólio startbootstrap
