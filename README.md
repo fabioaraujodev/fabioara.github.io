@@ -9,5 +9,5 @@ Construção da minha page para [pages.github.com](https://pages.github.com).
 * Ícones Font Awesome
 * Arquivo PHP fácil de editar para fazer o formulário de contato enviar mensagens
 
-Páginas GitHub:
+Página GitHub.oi:
 https://fabioara.github.io/
